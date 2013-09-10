@@ -1,0 +1,15 @@
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.mode1v3
+baseball_sc/build/*
+*.DS_Store
+*xcuserdata*
+.idea
+.bundle
+
+build/*
+!.gitignore
+Pods
+Podfile.lock
+test-reports/*
